@@ -1,0 +1,18 @@
+    class Audit:
+		def showdatabase(self,msg):
+			print(msg)
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+	
+db=Audit()
+db.showdatabase('hello world')
